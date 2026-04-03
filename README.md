@@ -12,12 +12,12 @@
 
 **Bun Package Manager:**
 ```sh
-bun install --dev bwsm
+bun install --dev bwsm-cli
 ```
 
 **NPM:**
 ```sh
-npm install -D bwsm
+npm install -D bwsm-cli
 ```
 
 ## Usage
