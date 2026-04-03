@@ -18,7 +18,7 @@
     "dist"
   ],
   "bin": {
-    "bwsm": "./dist/cli.js"
+    "bwsm": "dist/cli.js"
   },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
